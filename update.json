@@ -5,7 +5,7 @@
   
   "badgeText": "NEW RELEASE",
   "titleText": "✨ Ultra-Modern Update",
-  "releaseNotes": "• Added smooth animated purple background bubbles.\n• Upgraded to a sleek, border-lit glass card design.\n• Everything is controllable live from GitHub.",
+  "releaseNotes": "• Added smooth animated purple background bubbles.\n• Upgraded to a sleek, border-lit glass card design.\n• The box now automatically stretches to fit any amount of text without scrolling!",
   "updateButtonText": "UPGRADE NOW",
   "laterButtonText": "Maybe Later",
   
@@ -26,6 +26,5 @@
   "cardCornerRadius": 65,
   "buttonCornerRadius": 45,
   "titleTextSize": 22,
-  "notesTextSize": 15,
-  "notesBoxHeight": 320
+  "notesTextSize": 15
 }
