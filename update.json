@@ -1,0 +1,25 @@
+{
+  "showUpdateBox": true,
+  "showLaterButton": true,
+  "downloadUrl": "https://github.com",
+  
+  "titleText": "🚀 New Premium Update!",
+  "releaseNotes": "✨ Completely customizable design engine loaded dynamically from the cloud.",
+  "updateButtonText": "UPDATE NOW",
+  "laterButtonText": "LATER",
+  
+  "cardBgColor": "#FFFFFF",
+  "headerBgColor": "#6200EE",
+  "updateBtnColor": "#6200EE",
+  "titleTextColor": "#FFFFFF",
+  "notesTextColor": "#212121",
+  "laterBtnTextColor": "#757575",
+  "updateBtnTextColor": "#FFFFFF",
+  
+  "cardCornerRadius": 50,
+  "buttonCornerRadius": 25,
+  "titleTextSize": 20,
+  "notesTextSize": 15,
+  "notesLineSpacing": 10,
+  "notesBoxHeight": 400
+}
