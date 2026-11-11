@@ -3,23 +3,29 @@
   "showLaterButton": true,
   "downloadUrl": "https://github.com",
   
-  "titleText": "🚀 New Premium Update!",
-  "releaseNotes": "✨ Completely customizable design engine loaded dynamically from the cloud.",
-  "updateButtonText": "UPDATE NOW",
-  "laterButtonText": "LATER",
+  "badgeText": "NEW RELEASE",
+  "titleText": "✨ Ultra-Modern Update",
+  "releaseNotes": "• Added smooth animated purple background bubbles.\n• Upgraded to a sleek, border-lit glass card design.\n• Everything is controllable live from GitHub.",
+  "updateButtonText": "UPGRADE NOW",
+  "laterButtonText": "Maybe Later",
   
-  "cardBgColor": "#FFFFFF",
-  "headerBgColor": "#6200EE",
-  "updateBtnColor": "#6200EE",
+  "cardBgColor": "#140D24",
+  "cardBorderColor": "#9D4EDD",
+  "bubbleColor": "#7B2CBF",
+  "showBubbles": true,
+  "bubbleSpeed": 3500,
+  
+  "badgeBgColor": "#3C096C",
+  "badgeTextColor": "#E0AAFF",
   "titleTextColor": "#FFFFFF",
-  "notesTextColor": "#212121",
-  "laterBtnTextColor": "#757575",
+  "notesTextColor": "#D8C2FF",
+  "updateBtnColor": "#9D4EDD",
   "updateBtnTextColor": "#FFFFFF",
+  "laterBtnTextColor": "#9E8FB2",
   
-  "cardCornerRadius": 50,
-  "buttonCornerRadius": 25,
-  "titleTextSize": 20,
+  "cardCornerRadius": 65,
+  "buttonCornerRadius": 45,
+  "titleTextSize": 22,
   "notesTextSize": 15,
-  "notesLineSpacing": 10,
-  "notesBoxHeight": 400
+  "notesBoxHeight": 320
 }
