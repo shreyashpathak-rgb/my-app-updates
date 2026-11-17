@@ -1,0 +1,30 @@
+{
+  "showUpdateBox": true,
+  "showLaterButton": true,
+  "downloadUrl": "https://github.com",
+  
+  "badgeText": "NEW RELEASE",
+  "titleText": "✨ Ultra-Modern Update",
+  "releaseNotes": "• Added smooth animated purple background bubbles.\n• Upgraded to a sleek, border-lit glass card design.\n• The box now automatically stretches to fit any amount of text without scrolling!\n hdhd\nhdhehe\nyurue \n hdudusheu",
+  "updateButtonText": "UPGRADE NOW",
+  "laterButtonText": "Maybe Later",
+  
+  "cardBgColor": "#140D24",
+  "cardBorderColor": "#9D4EDD",
+  "bubbleColor": "#7B2CBF",
+  "showBubbles": true,
+  "bubbleSpeed": 3500,
+  
+  "badgeBgColor": "#3C096C",
+  "badgeTextColor": "#E0AAFF",
+  "titleTextColor": "#FFFFFF",
+  "notesTextColor": "#D8C2FF",
+  "updateBtnColor": "#9D4EDD",
+  "updateBtnTextColor": "#FFFFFF",
+  "laterBtnTextColor": "#9E8FB2",
+  
+  "cardCornerRadius": 65,
+  "buttonCornerRadius": 45,
+  "titleTextSize": 22,
+  "notesTextSize": 15
+}
